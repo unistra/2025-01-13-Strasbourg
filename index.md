@@ -475,5 +475,5 @@ May you have any other issue in the installation, please contact at
   <a href='mailto:{{email}}'>{{email}}</a>
   {% endfor %}
   {% else %}
-  {% endif %} or come in advance to the workshop so that we can help.
+  {% endif %} or come 30 minutes in advance to the workshop so that we can help.
 </p>
