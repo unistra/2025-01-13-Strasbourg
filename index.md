@@ -123,7 +123,9 @@ workshop is only open to people from a particular institution.
 {% elsif site.carpentry == "lc" %}
 {% include lc/who.html %}
 {% endif %}
-
+<p id="where">
+  <strong>Where:</strong> The course is aimed at graduate students and other researchers. You don't need to have any previous knowledge of the tools that will be presented at the workshop.
+</p>
 {% comment %}
 LOCATION
 
