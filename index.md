@@ -123,8 +123,8 @@ workshop is only open to people from a particular institution.
 {% elsif site.carpentry == "lc" %}
 {% include lc/who.html %}
 {% endif %}
-<p id="where">
-  <strong>Where:</strong> The course is aimed at graduate students and other researchers. You don't need to have any previous knowledge of the tools that will be presented at the workshop.
+<p id="who">
+  <strong>Who:</strong> The course is aimed at graduate students and other researchers. You don't need to have any previous knowledge of the tools that will be presented at the workshop.
 </p>
 {% comment %}
 LOCATION
@@ -446,7 +446,7 @@ please preview your site before committing, and make sure to run
   Prior to the workshop, please either:
   <ul>
   <li>Install R and RStudio on your machine by following the instructions given in the Setup page of <a href="{{site.incubator_lesson_site}}">the lesson homepage</a> or  <a href="https://posit.co/download/rstudio-desktop/">Posit download page</a></li>
-  <li>Use online RStudio by signing up to <a href="https://posit.cloud/">Posit Cloud</a> Free Plan </li>
+  <li>Sign up to use online RStudio via <a href="https://posit.cloud/plans/free">Posit Cloud</a> Free Plan </li>
 </ul> 
 </p>
 
